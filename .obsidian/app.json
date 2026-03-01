@@ -2,7 +2,10 @@
   "readableLineLength": true,
   "showLineNumber": false,
   "attachmentFolderPath": "attachments",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "trashOption": "local",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "useMarkdownLinks": true
 }

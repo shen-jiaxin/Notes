@@ -5,7 +5,7 @@
   "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-custom",
   "blue-topaz-theme@@title-justify-start": true,
-  "blue-topaz-theme@@dark-background-file": true,
+  "blue-topaz-theme@@dark-background-file": false,
   "blue-topaz-theme@@folder-note-underline": true,
   "blue-topaz-theme@@folder-note-dot": true,
   "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-title",
