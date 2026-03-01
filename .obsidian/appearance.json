@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "cssTheme": "Blue Topaz",
+  "baseFontSizeAction": true,
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "bold_strong"
+  ]
+}
